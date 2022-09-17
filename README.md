@@ -15,6 +15,4 @@ subtract the number of items decrease by 1 also.
 - Live Data
 
 ## Screenshots
-<img src="https://github.com/Akanksha-Verma31/Shopping-List-App/blob/master/Screenshot%20(1).png" width="200">
-<img src="https://github.com/Akanksha-Verma31/Shopping-List-App/blob/master/Screenshot%20(2).png" width="200">
-<img src="https://github.com/Akanksha-Verma31/Shopping-List-App/blob/master/Screenshot%20(3).png" width="200">
+<img src="https://github.com/Akanksha-Verma31/Shopping-List-App/blob/master/Screenshot%20(1).png" width="200"><img src="https://github.com/Akanksha-Verma31/Shopping-List-App/blob/master/Screenshot%20(2).png" width="200"><img src="https://github.com/Akanksha-Verma31/Shopping-List-App/blob/master/Screenshot%20(3).png" width="200">
